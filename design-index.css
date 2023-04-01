@@ -12,8 +12,15 @@ h1 {
   }
 
 .square-container {
-text-align: center;
+    text-align: center;
 }
+
+.square-container2 {
+    background: black;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    }
 
 .menu .nav-tabs {
     border: 10px;
